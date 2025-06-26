@@ -60,7 +60,7 @@ Powered by Groq's llama3-8b-8192 model
 
 ```bash
 # 📥 Clone the repository
-git clone <your-repository-url>
+git clone https://github.com/sagnik7081/Ignise
 cd langchain-ai-chatbot
 
 # 📦 Install dependencies  
@@ -125,7 +125,7 @@ ignise/
 
 ## 📋 Requirements
 
-- Python 3.10
+- Python 3.8+
 - Groq API Key
 - Dependencies listed in `requirements.txt`
 
