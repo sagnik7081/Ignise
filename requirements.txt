@@ -1,0 +1,12 @@
+streamlit
+sqlite3
+hashlib
+pandas
+PyPDF2
+python-docx
+requests
+datetime
+langchain
+langchain-groq
+langchain_community
+python-dotenv
